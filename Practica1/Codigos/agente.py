@@ -41,3 +41,7 @@ class agente:
         centro_patron_y = patron_alto // 2
         centro_patron_x = patron_ancho // 2
         
+    for fila_patron in range(patron_alto):
+    for col_patron in range(patron_ancho):
+        if self.__matrizVision[fila_patrpn]
+        
